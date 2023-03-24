@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:text_editor/model/mainScreen.dart';
+import 'package:text_editor/pages/mainScreen.dart';
 
 
 void main() {

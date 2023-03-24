@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:text_editor/model/factoryIconButton.dart';
+import 'package:text_editor/pages/factoryIconButton.dart';
 
 import '../main.dart';
 
